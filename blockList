@@ -1,0 +1,260 @@
+# Fast.com - 一个速度测试网站
+# domain:fast.com
+# 360.cn - 360公司的网站，提供安全软件等服务
+domain:360.cn
+# so.com - 搜索引擎，360旗下
+domain:so.com
+# qihoo.com - 360公司的官网，提供安全、搜索等服务
+domain:qihoo.com
+# 360safe.com - 360的安全产品官网
+domain:360safe.com
+# qhimg.com - 360公司提供的图片托管服务
+domain:qhimg.com
+# 360totalsecurity.com - 360 Total Security 安全软件官网
+domain:360totalsecurity.com
+# yunpan.cn - 云盘服务，已经关闭
+domain:yunpan.cn
+# yunpan.com - 另一种云盘服务
+domain:yunpan.com
+# n.shifen.com - 中国域名注册服务提供商
+domain:n.shifen.com
+# visa.com - 全球支付解决方案公司
+domain:visa.com
+# mycard.com - 在线支付平台
+domain:mycard.com
+# mastercard.com - 全球支付网络
+domain:mastercard.com
+# gash.com - 在线支付和奖励平台
+domain:gash.com
+# beanfun.com - 台湾的数字内容平台
+# domain:beanfun.com
+# metatrader4.org - MetaTrader 4 在线交易平台
+domain:metatrader4.org
+# metatrader4.com - MetaTrader 4 交易平台
+domain:metatrader4.com
+# metatrader4.net - MetaTrader 4 交易平台（备用域名）
+domain:metatrader4.net
+# metatrader5.org - MetaTrader 5 在线交易平台
+domain:metatrader5.org
+# metatrader5.com - MetaTrader 5 交易平台
+domain:metatrader5.com
+# metatrader5.net - MetaTrader 5 交易平台（备用域名）
+domain:metatrader5.net
+# mql5.org - MetaTrader的MQL5编程语言资源网站
+domain:mql5.org
+# mql5.com - MQL5社区，MetaTrader的编程资源
+domain:mql5.com
+# mql5.net - MQL5编程语言资源
+domain:mql5.net
+# guerrillamail.info - 临时邮件服务
+domain:guerrillamail.info
+# guerrillamail.biz - 临时邮件服务（备用域名）
+domain:guerrillamail.biz
+# guerrillamail.com - 临时邮件服务
+domain:guerrillamail.com
+# guerrillamail.de - 德国基于的临时邮件服务
+domain:guerrillamail.de
+# guerrillamail.net - 临时邮件服务（备用域名）
+domain:guerrillamail.net
+# guerrillamail.org - 临时邮件服务
+domain:guerrillamail.org
+# guerrillamail.me - 临时邮件服务（备用域名）
+domain:guerrillamail.me
+# guerrillamail.la - 老挝基于的临时邮件服务
+domain:guerrillamail.la
+# dafahao.org - 与中国的邮箱系统相关的网站
+domain:dafahao.org
+# dafahao.com - 与中国的邮箱系统相关的网站
+domain:dafahao.com
+# dafahao.net - 与中国的邮箱系统相关的网站
+domain:dafahao.net
+# minghui.org - 法轮功信息和新闻网站
+domain:minghui.org
+# minghui.com - 法轮功信息和新闻网站（备用域名）
+domain:minghui.com
+# minghui.net - 法轮功信息和新闻网站
+domain:minghui.net
+# dongtaiwang.org - 中国人权新闻网站
+domain:dongtaiwang.org
+# dongtaiwang.com - 中国人权新闻网站（备用域名）
+domain:dongtaiwang.com
+# dongtaiwang.net - 中国人权新闻网站
+domain:dongtaiwang.net
+# epochtimes.org - 大纪元时报
+domain:epochtimes.org
+# epochtimes.com - 大纪元时报
+domain:epochtimes.com
+# epochtimes.net - 大纪元时报（备用域名）
+domain:epochtimes.net
+# ntdtv.org - 新唐人电视台
+domain:ntdtv.org
+# ntdtv.com - 新唐人电视台（备用域名）
+domain:ntdtv.com
+# ntdtv.net - 新唐人电视台（备用域名）
+domain:ntdtv.net
+# falundafa.org - 法轮大法网站
+domain:falundafa.org
+# falundafa.com - 法轮大法网站（备用域名）
+domain:falundafa.com
+# falundafa.net - 法轮大法网站（备用域名）
+domain:falundafa.net
+# wujieliulan.org - 中国异见新闻网站
+domain:wujieliulan.org
+# wujieliulan.com - 中国异见新闻网站（备用域名）
+domain:wujieliulan.com
+# wujieliulan.net - 中国异见新闻网站
+domain:wujieliulan.net
+# zhengjian.org - 中国人权网站
+domain:zhengjian.org
+# zhengjian.com - 中国人权网站（备用域名）
+domain:zhengjian.com
+# zhengjian.net - 中国人权网站
+domain:zhengjian.net
+# xunlei.* - 迅雷下载和文件共享服务
+domain:xunlei.*
+# sandai.* - 与中国三孩政策相关的网站
+domain:sandai.*
+# xlliveud.* - 与迅雷的直播平台相关的服务
+domain:xlliveud.*
+# whatismyip.cn - 中国版IP地址查询网站
+domain:whatismyip.cn
+# whatismyip.com - IP地址查询网站
+domain:whatismyip.com
+# whatismyipadress.com - IP地址查询网站（备用域名）
+domain:whatismyipadress.com
+# 64tianwang.org - 中国人权和言论自由网站
+domain:64tianwang.org
+# beijingspring.com - 北京春天，异见新闻网站
+domain:beijingspring.com
+# boxun.com - 博讯，异见新闻网站
+domain:boxun.com
+# broadpressinc.com - 公关和媒体服务公司
+domain:broadpressinc.com
+# chengmingmag.com - 诚鸣杂志，异见出版物
+domain:chengmingmag.com
+# chenpokong.com - 陈破空，异见新闻网站
+domain:chenpokong.com
+# chinaaffairs.org - 中国事务，异见新闻和讨论网站
+domain:chinaaffairs.org
+# chinesepen.org - 中国笔会，异见新闻和讨论网站
+domain:chinesepen.org
+# dalailamaworld.com - 达赖喇嘛世界，藏传佛教网站
+domain:dalailamaworld.com
+# dalianmeng.org - 大连蒙，异见新闻网站
+domain:dalianmeng.org
+# epochweekly.com - 大纪元周刊，异见新闻网站
+domain:epochweekly.com
+# erabaru.net - 亚洲时报，异见新闻网站
+domain:erabaru.net
+# fgmtv.org - 自由亚洲电视台
+domain:fgmtv.org
+# hrichina.org - 中国人权组织
+domain:hrichina.org
+# huanghuagang.org - 黄花岗，异见新闻网站
+domain:huanghuagang.org
+# hxwq.com - 华夏网，异见新闻网站
+domain:hxwq.com
+# jiangweiping.org - 蒋卫平，中国人权活动家
+domain:jiangweiping.org
+# lagranepoca.com - 西班牙语版的大纪元
+domain:lagranepoca.com
+# lantosfoundation.org - 兰托斯基金会，推动人权
+domain:lantosfoundation.org
+# minzhuzhongguo.org - 民主中国，推动中国民主的网站
+domain:minzhuzhongguo.org
+# ned.org - 美国民主基金会
+domain:ned.org
+# ninecommentaries.com - 九评共產党，政治评论网站
+domain:ninecommentaries.com
+# ogate.org - 中国在线审查突破网站
+domain:ogate.org
+# renminbao.com - 人民报，异见新闻网站
+domain:renminbao.com
+# rfa.org - 自由亚洲广播电台
+domain:rfa.org
+# secretchina.com - 神秘中国，异见新闻网站
+domain:secretchina.com
+# shenyunperformingarts.org - 神韵艺术团官网
+domain:shenyunperformingarts.org
+# shenzhoufilm.com - 神州电影，异见电影制作
+domain:shenzhoufilm.com
+# soundofhope.org - 希望之声广播电台
+domain:soundofhope.org
+# tiantibooks.org - 天梯书屋，异见书籍资源
+domain:tiantibooks.org
+# tibetpost.net - 西藏邮报，西藏新闻网站
+domain:tibetpost.net
+# truthmoviegroup.wixsite.com - 真相电影集团，异见电影网站
+domain:truthmoviegroup.wixsite.com
+# tuidang.org - 退党网，支持法轮功的组织
+domain:tuidang.org
+# uhrp.org - 维吾尔人权项目
+domain:uhrp.org
+# uyghuramerican.org - 维吾尔美国人协会
+domain:uyghuramerican.org
+# vot.org - 西藏声音
+domain:vot.org
+# weijingsheng.org - 魏京生，异见活动家
+domain:weijingsheng.org
+# 12377.cn - 中国反色情、反非法内容网站
+domain:12377.cn
+# 12315.cn - 中国消费者保护网站
+domain:12315.cn
+# talk.news.pts - 台湾新闻网站
+domain:talk.news.pts
+# efcc.org - 欧洲网络安全联合会
+domain:efcc.org
+# cyberpolice.cn - 中国网络警察网站
+domain:cyberpolice.cn
+# falunaz.org - 美国的法轮功网站
+domain:falunaz.org
+# 110.qq.com - QQ的紧急服务平台
+domain:110.qq.com
+# mingjingnews.com - 明镜新闻，异见网站
+domain:mingjingnews.com
+# inmediahk.net - 香港独立媒体
+domain:inmediahk.net
+# xinsheng.net - 新生网，异见新闻网站
+domain:xinsheng.net
+# 12321.cn - 中国反垃圾邮件网站
+domain:12321.cn
+# cn.rfi.fr - 法国国际广播电台中文网站
+domain:cn.rfi.fr
+# chinaaid.org - 中国援助组织，支持基督教信仰
+domain:chinaaid.org
+# botanwang.com - 博坛网，政治讨论网站
+domain:botanwang.com
+# breakgfw.com - 反对中国防火墙的工具网站
+domain:breakgfw.com
+# jinpianwang.com - 影片网，电影网站
+domain:jinpianwang.com
+# xizang-zhiye.org - 西藏职业，西藏问题网站
+domain:xizang-zhiye.org
+# qi-gong.org - 气功网站，传统中医学
+domain:qi-gong.org
+# mhradio.org - 蒙古人权广播电台
+domain:mhradio.org
+# edoors.com - 中国在线服务平台
+domain:edoors.com
+# aboluowang.com - 占领网，异见新闻网站
+domain:aboluowang.com
+# bannedbook.org - 禁书网，藏书网站
+domain:bannedbook.org
+# dajiyuan.com - 大纪元时报官网
+domain:dajiyuan.com
+# huaglad.com - 华哥网，异见博客
+domain:huaglad.com
+# dwnews.com - 多维新闻，异见新闻网站
+domain:dwnews.com
+# creaders.net - 创新网，新闻和讨论网站
+domain:creaders.net
+# oneplusnews.com - 与OnePlus相关的新闻平台
+domain:oneplusnews.com
+# nextdigital.com - Next Digital，香港媒体公司
+domain:nextdigital.com
+# gtv.org - 全球媒体平台
+domain:gtv.org
+# kwok7.com - 中国媒体网站
+domain:kwok7.com
+# 端口限制
+# port:10000-60000
