@@ -1,5 +1,5 @@
 # Fast.com - 一个速度测试网站
-# domain:fast.com
+domain:fast.com
 # 360.cn - 360公司的网站，提供安全软件等服务
 domain:360.cn
 # so.com - 搜索引擎，360旗下
@@ -256,5 +256,7 @@ domain:nextdigital.com
 domain:gtv.org
 # kwok7.com - 中国媒体网站
 domain:kwok7.com
+# pincong.rocks - 品葱，政治讨论网站
+domain:pincong.rocks
 # 端口限制
-# port:10000-60000
+port:10000-60000
