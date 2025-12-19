@@ -34,10 +34,10 @@ rules=[
 # 路由 2 代理出口 1
 [[routes.Outs]]
 # 出口网卡 ip，不配置则由系统决定
-listen=""
+listen="103.137.184.201"
 type="redirect"
 # 重定向地址
-server="ping0.ipyard.com"
+server="ping0.co"
 # 重定向端口，若设置为 0，则使用用户访问的端口
 port=443
 
