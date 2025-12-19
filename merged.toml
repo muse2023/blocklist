@@ -1,0 +1,54 @@
+# 是否启用路由，若关闭则默认直连
+enable=true
+
+# 路由 1：延迟劫持
+[[routes]]
+rules=[
+"domain:www.gstatic.com",
+"domain:connectivitycheck.gstatic.com",
+"domain:www.google.com",
+"domain:www.google-analytics.com",
+"domain:cp.cloudflare.com",
+"domain:captive.apple.com",
+"domain:www.apple.com",
+"domain:www.msftconnecttest.com",
+"domain:detectportal.firefox.com"
+]
+
+# 路由 1 代理出口 1
+[[routes.Outs]]
+# 出口网卡 ip，不配置则由系统决定
+listen=""
+type="redirect"
+# 重定向地址
+server="127.0.0.1"
+# 重定向端口，若设置为 0，则使用用户访问的端口
+port=0
+
+# 路由 2：Regular redirection 规则
+[[routes]]
+rules=[
+"domain:ping0.cc"
+]
+
+# 路由 2 代理出口 1
+[[routes.Outs]]
+# 出口网卡 ip，不配置则由系统决定
+listen=""
+type="redirect"
+# 重定向地址
+server="ping0.ipyard.com"
+# 重定向端口，若设置为 0，则使用用户访问的端口
+port=443
+
+# 路由 N，最后一个路由兜底，否则无法匹配剩余的域名/IP
+[[routes]]
+# "*" 表示匹配任何域名/IP
+rules=["*"]
+
+# 配置直连出口
+[[routes.Outs]]
+# 出口网卡 ip，不配置则由系统决定
+listen=""
+type="direct"
+
