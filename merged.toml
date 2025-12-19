@@ -41,6 +41,22 @@ server="ping0.co"
 # 重定向端口，若设置为 0，则使用用户访问的端口
 port=443
 
+# 路由 3：Fast 测速的规则
+[[routes]]
+rules=[
+"domain:fiber.google.com"
+]
+
+# 路由 3 代理出口 1
+[[routes.Outs]]
+# 出口网卡 ip，不配置则由系统决定
+listen=""
+type="redirect"
+# 重定向地址
+server="www.speedtest.net"
+# 重定向端口，若设置为 0，则使用用户访问的端口
+port=443
+
 # 路由 N，最后一个路由兜底，否则无法匹配剩余的域名/IP
 [[routes]]
 # "*" 表示匹配任何域名/IP
