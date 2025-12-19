@@ -10,7 +10,7 @@ rules=[
 # 路由 1 代理出口 1
 [[routes.Outs]]
 # 出口网卡 ip，不配置则由系统决定
-listen="103.137.184.201"
+listen=""
 type="redirect"
 # 重定向地址
 server="ping0.co"
